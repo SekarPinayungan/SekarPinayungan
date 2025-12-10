@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi there 👋, Aku Sekar Pinayungan
 
-<!--
-**SekarPinayungan/SekarPinayungan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📋 Tentang Aku  
+Mahasiswa Semester 5 Sistem Informasi yang memiliki minat dalam di bidang teknologi informasi. Memiliki kemampuan dasar pemrograman HTML, CSS, JavaScript, dan TypeScript, serta mulai memahami framework seperti Ionic. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skill & Teknologi  
+- HTML, CSS, JavaScript, Java, TypeScript 
+- Node.js, Vue 
+- Git & GitHub (pengelolaan versi & kolaborasi)  
+- SQL 
+
+---
+
+## ✅ Proyek & Portofolio  
+Berikut beberapa proyek / karya yang sudah aku buat:
+
+| Nama Proyek | Deskripsi Singkat | Link |
+|------------|------------------|------|
+| **ToDoList** | ToDoList yang memiliki fitur CRUD |
+| **RestoApp** | Aplikasi Resto sederhana menggunakan Java, memiliki fitur input menu, tampilkan menu, memilih menu, dan menghitung total pembayaran, dan pencetakan struk.|
+| **WeatherApp** | Aplikasi sederhana menggunakan API untuk menampilkan prediksi cuaca |
+
+
+---
+
+## 📚 Pendidikan / Pelatihan / Pengalaman (opsional)  
+-   Bootcamp Intro to Software Engineering”, “Magang di …”, dsb)  
+
+
+---
+
+## 📫 Kontak & Sosial Media  
+- Sekarpinayy@gmail.com 
+- www.linkedin.com/in/sekar-pinayungan  
+
+---
+
+
+
