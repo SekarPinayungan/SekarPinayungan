@@ -16,8 +16,8 @@ Mahasiswa Semester 5 Sistem Informasi yang memiliki minat dalam di bidang teknol
 ## ✅ Proyek & Portofolio  
 Berikut beberapa proyek / karya yang sudah aku buat:
 
-| Nama Proyek | Deskripsi Singkat | Link |
-|------------|------------------|------|
+| Nama Proyek | Deskripsi Singkat |
+|------------|------------------|
 | **ToDoList** | ToDoList yang memiliki fitur CRUD |
 | **RestoApp** | Aplikasi Resto sederhana menggunakan Java, memiliki fitur input menu, tampilkan menu, memilih menu, dan menghitung total pembayaran, dan pencetakan struk.|
 | **WeatherApp** | Aplikasi sederhana menggunakan API untuk menampilkan prediksi cuaca |
@@ -25,8 +25,8 @@ Berikut beberapa proyek / karya yang sudah aku buat:
 
 ---
 
-## 📚 Pendidikan / Pelatihan / Pengalaman (opsional)  
--   Bootcamp Intro to Software Engineering”, “Magang di …”, dsb)  
+## 📚 Pelatihan
+-   Bootcamp Intro to Software Engineering” - RevoU
 
 
 ---
